@@ -1,0 +1,5 @@
+//Study-Notes:
+
+@@@>>>
+
+1. we cant't use sperad operaton in object without "{}";
